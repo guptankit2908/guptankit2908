@@ -79,14 +79,95 @@
 
 ---
 
-### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=guptankit2908&show_icons=true&locale=en&layout=compact" alt="guptankit2908" />
-</p>
+## 📊 GitHub Stats
+
+<div align="center">
+Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding languages, and contributions.
+  
+---
+  
+<table>
+  <tr>
+    <th>🔥 Metric</th>
+    <th>📈 Value</th>
+  </tr>
+  <tr>
+    <td>⭐ <strong>Total Stars Earned</strong></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>🔄 <strong>Total Commits (2025)</strong></td>
+    <td>14</td>
+  </tr>
+  <tr>
+    <td>🐞 <strong>Total Issues</strong></td>
+    <td>0</td>
+  </tr>
+  <tr>
+    <td>⏳ <strong>Contributions (last year)</strong></td>
+    <td>0</td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Grade-C-%23ff69b4?style=for-the-badge" alt="Activity Grade"/>
+
+</div>
+
+---
+
+### 🧠 Language Breakdown
+
+<div align="center">
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Usage</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PHP-73%25-blue" alt="PHP"/></td>
+    <td><code>73.02%</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Hack-17%25-grey" alt="Hack"/></td>
+    <td><code>17.48%</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/JavaScript-9%25-yellow" alt="JavaScript"/></td>
+    <td><code>9.27%</code></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Batchfile-0.2%25-lightgrey" alt="Batchfile"/></td>
+    <td><code>0.23%</code></td>
+  </tr>
+</table>
+ 📌 *Breakdown based on total codebase analyzed from public repositories.*
+</div>
+
+---
+
+## 💡 Next Goals
+
+- [ ] Increase contributions
+- [ ] Engage in open source
+- [ ] Reach 100 commits in 2025
+- [ ] Earn my first star ⭐
+
+---
+
+> 🧠 *"Consistency over perfection. Small contributions lead to big results."*
+
+
+---
+
+### 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptankit2908&show_icons=true&locale=en" alt="guptankit2908" />
+  <img src="https://streak-stats.demolab.com?user=guptankit2908&theme=radical&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
