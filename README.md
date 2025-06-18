@@ -162,10 +162,14 @@ Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding
 
 ---
 
-### 🔥 GitHub Streak Stats
+## 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=guptankit2908&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=guptankit2908&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" 
+    alt="GitHub Streak Stats" 
+    height="200"
+  />
 </p>
 
 
