@@ -172,15 +172,18 @@ Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding
   />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=guptankit2908&theme=radical&no-frame=true&column=4" alt="Trophies"/>
-</p>
-
 ---
 
-### 👀 Visitors Count:
+## 👁️‍🗨️ Profile Views
+
 <p align="center">
-  <img src="https://profile-counter.glitch.me/guptankit2908/count.svg" alt="guptankit2908" />
+  <img src="https://komarev.com/ghpvc/?username=guptankit2908&label=PROFILE+HITS&color=orange&style=for-the-badge" alt="GitHub Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ff0000&width=435&lines=Thanks+for+visiting!+👋;Hope+you+found+something+cool!+🚀" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=👁+Visitor+ID+Locked;👾+Monitoring+Activity...;🎯+Tracking+Interactions..." alt="Futuristic Footer Typing" />
 </p>
