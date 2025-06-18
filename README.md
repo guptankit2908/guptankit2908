@@ -183,7 +183,3 @@ Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ff0000&width=435&lines=Thanks+for+visiting!+👋;Hope+you+found+something+cool!+🚀" alt="Typing SVG" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=500&lines=👁+Visitor+ID+Locked;👾+Monitoring+Activity...;🎯+Tracking+Interactions..." alt="Futuristic Footer Typing" />
-</p>
