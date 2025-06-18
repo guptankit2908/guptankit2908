@@ -4,7 +4,7 @@
 
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Top+50+SIH+2024+Finalist🏆;;Building+Sustainable+Tech🌿;Let’s+Innovate+Together!🚀&center=true&width=500&height=45&color=ff0000&vCenter=true&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Top+50+SIH+2024+Finalist🏆;;Building+Sustainable+Tech🌿;Let’s+Innovate+Together!🚀&center=true&width=500&height=45&color=39FF14&vCenter=true&size=22" />
 </p>
 
 ---
@@ -19,15 +19,18 @@
 
 ---
 
+
+## 🏆 GitHub Achievements
+
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=guptankit2908&label=Profile%20views&color=0e75b6&style=flat" alt="guptankit2908" />
+  <img src="https://github-profile-trophy.vercel.app/?username=guptankit2908&theme=matrix&no-frame=true&margin-w=15&column=6&title=Commits,Repositories,PullRequest,Issues,Stars,Followers" alt="Hacker Trophies" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=guptankit2908" alt="guptankit2908" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Tracking+Agent...;Monitoring+GitHub+Signals...;Agent+Guptankit2908:+Active" alt="Hacker Typing" />
 </p>
+
 
 ---
 
@@ -181,5 +184,5 @@ Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=ff0000&width=435&lines=Thanks+for+visiting!+👋;Hope+you+found+something+cool!+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=39FF14&width=435&lines=Thanks+for+visiting!+👋;Hope+you+found+something+cool!+🚀" alt="Typing SVG" />
 </p>
