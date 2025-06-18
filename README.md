@@ -1,6 +1,23 @@
-# Hi 👋, I'm Ankit Gupta
+<!-- Header -->
+<h1 align="center">Hi 👋, Ankit Gupta</h1>
+<h3 align="center">🚀 Achieved Top 50 rank in Smart India Hackathon 2024 | 💻 Full Stack & AI Enthusiast</h3>
 
-### 🌱 3rd Year CSE Student • Full-Stack Web Developer • AI/ML & DSA Enthusiast • Tech Explorer
+<!-- Typing animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Top+50+SIH+2024+Finalist🏆;;Building+Sustainable+Tech🌿;Let’s+Innovate+Together!🚀&center=true&width=500&height=45&color=ff0000&vCenter=true&size=22" />
+</p>
+
+---
+
+### 🧑‍💼 About Me
+
+- 🎓 3rd Year at **Lovely Professional University**
+- 🌱 Learning **Full Stack Development** (React + Spring Boot)
+- 📡 Building a **Drone-based Crop Disease Detection System** (Patent Project)
+- ♻️ Developing a solution for **Smart Resource Conservation** (SIH 2024)
+- ✨ Passionate about **Open Source, AI, and Green Tech**
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=guptankit2908&label=Profile%20views&color=0e75b6&style=flat" alt="guptankit2908" />
@@ -15,20 +32,31 @@
 ---
 
 ### 🚀 What I’m Currently Working On:
-- **Virtual visit to ICU** – A project aimed at providing virtual experiences for ICU visits.
+- **Virtual visit to ICU** – An innovative project designed to provide immersive, virtual experiences for ICU visits. Aiming to bridge emotional gaps and reduce anxiety for families through real-time, interactive technology.
 
 ### 🌱 What I’m Learning Right Now:
-- **Node.js**, **PHP**, **Ruby**, **Data Structures & Algorithms**.
+- **Node.js** - Backend development & real-time applications
+- **PHP** and **Ruby** - Web development & scripting essentials
+- **Data Structures & Algorithms** - Strengthening problem-solving & coding fundamentals
 
-### 🤝 What I’m Looking For:
-- Collaborating on **Virtual Visit to ICU**.
-- Help with **Virtual Visit to ICU**.
+### 🤝 Seeking Collaboration:
+- Looking for passionate developers, designers, or healthcare tech experts to collaborate or mentor on the Virtual Visit to ICU project. Let’s make a real-world impact together!
+
+---
 
 ### 📫 How to Reach Me:
-[Send me an Email](mailto:gupta.ankit1302@gmail.com) 📧
+<p align="center">
+  <a href="mailto:gupta.ankit1302@gmail.com">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGhheGl1M2RoczZzbHR4dXNvMXpobG83dTgxOG1mcTNkY2cydTlzMyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/9y6pk4diSKJN3FmEcu/giphy.gif" width="100" height="100" />
+  </a>
+</p>
+
+---
 
 ### ⚡ Fun Fact:
-![Fun Fact Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lkMDcwMGlqZmYyYm4wM3NtMnVjbDNkbTQ1M215OG11MzMybGdkciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/7hJZcKzjIufeOmqKSj/giphy.gif)  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2F3OGxuejdzZmhtZjdybjd4bGw2b3NhdXRqMXg4NDE3aDlsOXAwcCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/b88QlTSTsj3bEHQyZf/giphy.gif" alt="Fun Fact Animation" width="200" height="200" />
+</p>
 *I once built a full-stack project overnight just for fun—and it actually worked! Debugging at 3 AM hits different.* 🛠️
 
 ---
