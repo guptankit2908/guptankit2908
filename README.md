@@ -63,7 +63,7 @@
 
 ### 🔗 Connect With Me:
 <p align="center">
-  <a href="https://linkedin.com/in/ankitgupta2908" target="blank">
+  <a href="https://linkedin.com/in/ankitgupta2908" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ankitgupta2908" height="30" width="40" />
   </a>
 </p>
