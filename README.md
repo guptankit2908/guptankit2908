@@ -172,6 +172,11 @@ Welcome to my GitHub stats showcase! Here’s an overview of my activity, coding
   />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guptankit2908&theme=radical&no-frame=true&column=4" alt="Trophies"/>
+</p>
 
 ---
 
