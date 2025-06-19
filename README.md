@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, Ankit Gupta</h1>
-<h3 align="center">🚀 Achieved Top 50 rank in Smart India Hackathon 2024 | 💻 Full Stack & AI Enthusiast</h3>
+<h3 align="center">🚀 Achieved Top 50 rank in Smart India Hackathon 2024 | 💻 Full Stack & AI Enthusiast.</h3>
 
 <!-- Typing animation -->
 <p align="center">
